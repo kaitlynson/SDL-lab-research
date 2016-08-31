@@ -1,7 +1,6 @@
-
+# Kaitlyn Son
 # coding: utf-8
 
-# In[ ]:
 
 import json
 import io # use io.open for outfile or use bz file 
@@ -19,12 +18,9 @@ import itertools as itr
 import glob 
 
 
-# In[ ]:
-
 SYLLABLE_DICT = cmudict.dict()  
 
 
-# In[ ]:
 
 def is_three_plus_syllables(word):
     x = SYLLABLE_DICT.get(word.lower())
@@ -62,8 +58,6 @@ def compute_smog_score(list_tweets):
         return grade
 
 
-# In[ ]:
-
 in_file_name = "/Users/sports195admin/Downloads/success_timelines_00002.json.bz2"
 out_file_name = "/Users/sports195admin/Downloads/tweets_00001.json.bz2"
 
@@ -95,10 +89,6 @@ with bz2.BZ2File(in_file_name) as infile, bz2.BZ2File(out_file_name, 'w') as out
         outfile.write(json.dumps(tdict)+'\n')
         
   
-
-
-# In[ ]:
-
 #total_num_words = 0
 list_smogs = []
 list_file_name = glob.glob("/Users/sports195admin/Downloads/tweets_*.bz2")
@@ -119,7 +109,6 @@ print list_smogs_s.mean()
 print list_smogs_s.std()
 
 
-# In[ ]:
 
 data = [
     py_go.Histogram(
@@ -127,69 +116,4 @@ data = [
     )
 ]
 py.iplot(data)
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
 
