@@ -1,0 +1,1159 @@
+replace rocc60 = 10 if rocc70 == 175
+
+replace rocc60 = 12 if rocc70 == 163
+
+replace rocc60 = 13 if rocc70 == 2
+
+replace rocc60 = 14 if rocc70 == 190
+
+replace rocc60 = 15 if rocc70 == 180
+
+replace rocc60 = 20 if rocc70 == 181
+
+replace rocc60 = 21 if rocc70 == 45
+
+replace rocc60 = 22 if rocc70 == 61
+
+replace rocc60 = 23 if rocc70 == 86
+
+replace rocc60 = 30 if rocc70 == 235
+
+replace rocc60 = 31 if rocc70 == 102
+
+replace rocc60 = 32 if rocc70 == 104
+
+replace rocc60 = 34 if rocc70 == 105
+
+replace rocc60 = 35 if rocc70 == 116
+
+replace rocc60 = 40 if rocc70 == 111
+
+replace rocc60 = 41 if rocc70 == 103
+
+replace rocc60 = 42 if rocc70 == 112
+
+replace rocc60 = 43 if rocc70 == 113
+
+replace rocc60 = 45 if rocc70 == 110
+
+replace rocc60 = 50 if rocc70 == 114
+
+replace rocc60 = 52 if rocc70 == 134
+
+replace rocc60 = 53 if rocc70 == 120 | rocc70 ==  121 | rocc70 == 122 | rocc70 ==  125 | rocc70 ==  126 
+
+replace rocc60 = 54 if rocc70 == 115 | rocc70 ==  130 | rocc70 ==  131 | rocc70 ==  132 | rocc70 ==  133
+
+replace rocc60 = 60 if rocc70 == 135 | rocc70 ==  140
+
+replace rocc60 = 70 if rocc70 == 182
+
+replace rocc60 = 71 if rocc70 == 62
+
+replace rocc60 = 72 if rocc70 == 183
+
+replace rocc60 = 73 if rocc70 == 74
+
+replace rocc60 = 74 if rocc70 == 152
+
+replace rocc60 = 75 if rocc70 == 184
+
+replace rocc60 = 80 if rocc70 == 6
+
+replace rocc60 = 81 if rocc70 == 10
+
+replace rocc60 = 82 if rocc70 == 11
+
+replace rocc60 = 83 if rocc70 == 12
+
+replace rocc60 = 84 if rocc70 == 13
+
+replace rocc60 = 85 if rocc70 == 14
+
+replace rocc60 = 90 if rocc70 == 15
+
+replace rocc60 = 91 if rocc70 == 20 | rocc70 ==  21
+
+replace rocc60 = 92 if rocc70 == 22
+
+replace rocc60 = 93 if rocc70 == 23
+
+replace rocc60 = 101 if rocc70 == 194
+
+replace rocc60 = 102 if rocc70 == 24 | rocc70 ==  26
+
+replace rocc60 = 103 if rocc70 == 25
+
+replace rocc60 = 104 if rocc70 == 165 | rocc70 ==  211
+
+replace rocc60 = 105 if rocc70 == 30 | rocc70 ==  31
+
+replace rocc60 = 111 if rocc70 == 32 | rocc70 ==  82
+
+replace rocc60 = 120 if rocc70 == 123 | rocc70 ==  185
+
+replace rocc60 = 130 if rocc70 == 42
+
+replace rocc60 = 131 if rocc70 == 44
+
+replace rocc60 = 134 if rocc70 == 51
+
+replace rocc60 = 135 if rocc70 == 35
+
+replace rocc60 = 140 if rocc70 == 53
+
+replace rocc60 = 145 if rocc70 == 54 | rocc70 == 52
+
+replace rocc60 = 150 if rocc70 == 75
+
+replace rocc60 = 151 if rocc70 == 923
+
+replace rocc60 = 152 if rocc70 == 63
+
+replace rocc60 = 154 if rocc70 == 56
+
+replace rocc60 = 160 if rocc70 == 64
+
+replace rocc60 = 161 if rocc70 == 191
+
+replace rocc60 = 162 if rocc70 == 65
+
+replace rocc60 = 163 if rocc70 == 192
+
+replace rocc60 = 164 if rocc70 == 164 | rocc70 ==  171
+
+replace rocc60 = 165 if rocc70 == 101
+
+replace rocc60 = 170 if rocc70 == 90
+
+replace rocc60 = 171 if rocc70 == 100
+
+replace rocc60 = 172 if rocc70 == 91
+
+replace rocc60 = 173 if rocc70 == 93
+
+replace rocc60 = 174 if rocc70 == 34 | rocc70 ==  36
+
+replace rocc60 = 175 if rocc70 == 33 | rocc70 ==  92 | rocc70 ==  94 | rocc70 ==  96
+
+replace rocc60 = 180 if rocc70 == 124
+
+replace rocc60 = 181 if rocc70 == 161
+
+replace rocc60 = 182 if rocc70 == 142 | rocc70 == 143
+
+replace rocc60 = 183 if rocc70 == 144 | rocc70 == 145 | rocc70 == 240
+
+replace rocc60 = 184 if rocc70 == 141
+
+replace rocc60 = 185 if rocc70 == 80 | rocc70 ==  81 | rocc70 ==  83 | rocc70 ==  84 | rocc70 ==  85 | rocc70 ==  426
+
+replace rocc60 = 190 if rocc70 == 153
+
+replace rocc60 = 191 if rocc70 == 43 | rocc70 ==  151 | rocc70 ==  155 | rocc70 ==  156 | rocc70 ==  162 | rocc70 ==  172
+
+replace rocc60 = 192 if rocc70 == 173 | rocc70 == 150
+
+replace rocc60 = 193 if rocc70 == 71 | rocc70 ==  76
+
+replace rocc60 = 194 if rocc70 == 72
+
+replace rocc60 = 195 if rocc70 == 3 | rocc70 ==  5 | rocc70 ==  55 | rocc70 ==  73 | rocc70 ==  95 | rocc70 ==  154 | rocc70 ==  174 | rocc70 ==  193 | rocc70 ==  195 | rocc70 ==  382 | rocc70 == 4
+
+replace rocc60 = 200 if rocc70 == 801
+
+replace rocc60 = 222 if rocc70 == 802
+
+replace rocc60 = 250 if rocc70 == 205 | rocc70 ==  231 | rocc70 ==  233
+
+replace rocc60 = 251 if rocc70 == 203
+
+replace rocc60 = 252 if rocc70 == 226
+
+replace rocc60 = 253 if rocc70 == 210
+
+replace rocc60 = 260 if rocc70 == 213 | rocc70 ==  215
+
+replace rocc60 = 262 if rocc70 == 216
+
+replace rocc60 = 265 if rocc70 == 221
+
+replace rocc60 = 270 if rocc70 ==  222
+
+replace rocc60 = 275 if rocc70 == 223
+
+replace rocc60 = 280 if rocc70 == 224
+
+replace rocc60 = 285 if rocc70 == 225
+
+replace rocc60 = 290 if rocc70 == 202 | rocc70 ==  220 | rocc70 ==  230 | rocc70 ==  245 | rocc70 == 212
+
+replace rocc60 = 301 if rocc70 == 363 | rocc70 == 321 | rocc70 == 201
+
+replace rocc60 = 302 if rocc70 == 330
+
+replace rocc60 = 303 if rocc70 == 921
+
+replace rocc60 = 305 if rocc70 == 301
+
+replace rocc60 = 310 if rocc70 == 305
+
+replace rocc60 = 312 if rocc70 == 310
+
+replace rocc60 = 313 if rocc70 == 313
+
+replace rocc60 = 314 if rocc70 == 315
+
+replace rocc60 = 320 if rocc70 == 325
+
+replace rocc60 = 321 if rocc70 == 326
+
+replace rocc60 = 323 if rocc70 == 331
+
+replace rocc60 = 324 if rocc70 == 333
+
+replace rocc60 = 325 if rocc70 == 341 | rocc70 ==  342 | rocc70 ==  343 | rocc70 ==  344 | rocc70 ==  345 | rocc70 ==  350 | rocc70 ==  355
+
+replace rocc60 = 333 if rocc70 == 360
+
+replace rocc60 = 340 if rocc70 == 361
+
+replace rocc60 = 341 if rocc70 == 364
+
+replace rocc60 = 342 if rocc70 == 370 | rocc70 ==  371 | rocc70 ==  372
+
+replace rocc60 = 343 if rocc70 == 374
+
+replace rocc60 = 345 if rocc70 == 376
+
+replace rocc60 = 350 if rocc70 == 381
+
+replace rocc60 = 351 if rocc70 == 383
+
+replace rocc60 = 352 if rocc70 == 384
+
+replace rocc60 = 353 if rocc70 == 385
+
+replace rocc60 = 354 if rocc70 == 390
+
+replace rocc60 = 360 if rocc70 == 391
+
+replace rocc60 = 370 if rocc70 == 303 | rocc70 ==  311 | rocc70 ==  312 | rocc70 ==  314 | rocc70 ==  320 | rocc70 ==  323 | rocc70 ==  332 | rocc70 ==  334 | rocc70 ==  362 | rocc70 ==  375 | rocc70 ==  392 | rocc70 ==  394 | rocc70 ==  395
+
+replace rocc60 = 380 if rocc70 == 260
+
+replace rocc60 = 381 if rocc70 == 261
+
+replace rocc60 = 382 if rocc70 == 262
+
+replace rocc60 = 383 if rocc70 == 264
+
+replace rocc60 = 385 if rocc70 == 265
+
+replace rocc60 = 390 if rocc70 == 266
+
+replace rocc60 = 393 if rocc70 == 270
+
+replace rocc60 = 394 if rocc70 == 280 | rocc70 == 281 | rocc70 ==  282 | rocc70 ==  283 | rocc70 ==  284 | rocc70 ==  285
+
+replace rocc60 = 395 if rocc70 == 271
+
+replace rocc60 = 401 if rocc70 == 402
+
+replace rocc60 = 402 if rocc70 ==  403
+
+replace rocc60 = 403 if rocc70 == 404
+
+replace rocc60 = 404 if rocc70 == 405
+
+replace rocc60 = 405 if rocc70 == 410 | rocc70 ==  560
+
+replace rocc60 = 410 if rocc70 == 413
+
+replace rocc60 = 411 if rocc70 == 415
+
+replace rocc60 = 413 if rocc70 == 421
+
+replace rocc60 = 414 if rocc70 == 422
+
+replace rocc60 = 415 if rocc70 == 424
+
+replace rocc60 = 420 if rocc70 == 425
+
+replace rocc60 = 421 if rocc70 == 430
+
+replace rocc60 = 423 if rocc70 == 434
+
+replace rocc60 = 424 if rocc70 == 435
+
+replace rocc60 = 425 if rocc70 == 412 | rocc70 ==  436
+
+replace rocc60 = 430 if rocc70 == 441
+
+replace rocc60 = 431 if rocc70 == 442
+
+replace rocc60 = 432 if rocc70 == 444
+
+replace rocc60 = 434 if rocc70 == 445
+
+replace rocc60 = 435 if rocc70 == 446
+
+replace rocc60 = 444 if rocc70 == 450
+
+replace rocc60 = 450 if rocc70 == 452
+
+replace rocc60 = 451 if rocc70 == 453
+
+replace rocc60 = 452 if rocc70 == 454
+
+replace rocc60 = 453 if rocc70 == 433 | rocc70 ==  552 | rocc70 ==  554
+
+replace rocc60 = 454 if rocc70 == 455
+
+replace rocc60 = 460 if rocc70 == 456
+
+replace rocc60 = 461 if rocc70 == 483
+
+replace rocc60 = 465 if rocc70 == 461
+
+replace rocc60 = 470 if rocc70 == 470
+
+replace rocc60 = 471 if rocc70 == 170 | rocc70 ==  471
+
+replace rocc60 = 472 if rocc70 == 472 | rocc70 ==  473
+
+replace rocc60 = 473 if rocc70 ==  484
+
+replace rocc60 = 474 if rocc70 == 485
+
+replace rocc60 = 475 if rocc70 == 486
+
+replace rocc60 = 480 if rocc70 == 480 | rocc70 ==  481 | rocc70 ==  482 | rocc70 ==  492 | rocc70 ==  495 | rocc70 == 475
+
+replace rocc60 = 490 if rocc70 == 501
+
+replace rocc60 = 491 if rocc70 == 502
+
+replace rocc60 = 492 if rocc70 == 503
+
+replace rocc60 = 493 if rocc70 == 505
+
+replace rocc60 = 494 if rocc70 == 506
+
+replace rocc60 = 495 if rocc70 == 510 | rocc70 ==  543
+
+replace rocc60 = 501 if rocc70 == 512
+
+replace rocc60 = 502 if rocc70 == 514
+
+replace rocc60 = 503 if rocc70 == 515
+
+replace rocc60 = 504 if rocc70 == 516
+
+replace rocc60 = 505 if rocc70 == 520
+
+replace rocc60 = 510 if rocc70 == 522
+
+replace rocc60 = 512 if rocc70 == 530
+
+replace rocc60 = 513 if rocc70 == 533
+
+replace rocc60 = 514 if rocc70 == 534
+
+replace rocc60 = 515 if rocc70 ==  542
+
+replace rocc60 = 520 if rocc70 == 545
+
+replace rocc60 = 521 if rocc70 == 546
+
+replace rocc60 = 523 if rocc70 == 540 | rocc70 ==  550
+
+replace rocc60 = 524 if rocc70 == 551
+
+replace rocc60 = 525 if rocc70 == 535
+
+replace rocc60 = 530 if rocc70 == 561
+
+replace rocc60 = 535 if rocc70 == 563 | rocc70 == 401
+
+replace rocc60 = 545 if rocc70 == 575 | rocc70 == 420
+
+replace rocc60 = 555 if rocc70 == 580
+
+replace rocc60 = 601 if rocc70 == 474
+
+replace rocc60 = 602 if rocc70 == 411
+
+replace rocc60 = 603 if rocc70 == 416
+
+replace rocc60 = 604 if rocc70 == 431
+
+replace rocc60 = 605 if rocc70 == 462 | rocc70 ==  562
+
+replace rocc60 = 610 if rocc70 == 491
+
+replace rocc60 = 612 if rocc70 == 523
+
+replace rocc60 = 613 if rocc70 == 511 | rocc70 ==  521
+
+replace rocc60 = 614 if rocc70 == 504 | rocc70 ==  536
+
+replace rocc60 = 615 if rocc70 == 423 | rocc70 ==  531
+
+replace rocc60 = 620 if rocc70 == 571 | rocc70 ==  945
+
+replace rocc60 = 621 if rocc70 == 572
+
+replace rocc60 = 630 if rocc70 == 601
+
+replace rocc60 = 631 if rocc70 == 602
+
+replace rocc60 = 632 if rocc70 == 623 | rocc70 ==  711
+
+replace rocc60 = 634 if rocc70 == 603
+
+replace rocc60 = 635 if rocc70 == 701
+
+replace rocc60 = 640 if rocc70 == 712
+
+replace rocc60 = 641 if rocc70 == 703
+
+replace rocc60 = 642 if rocc70 == 605
+
+replace rocc60 = 643 if rocc70 == 610
+
+replace rocc60 = 650 if rocc70 == 705
+
+replace rocc60 = 651 if rocc70 == 613
+
+replace rocc60 = 652 if rocc70 == 620
+
+replace rocc60 = 653 if rocc70 == 621 | rocc70 ==  651
+
+replace rocc60 = 654 if rocc70 == 625
+
+replace rocc60 = 670 if rocc70 == 622
+
+replace rocc60 = 671 if rocc70 == 624
+
+replace rocc60 = 672 if rocc70 == 626
+
+replace rocc60 = 673 if rocc70 == 671
+
+replace rocc60 = 674 if rocc70 == 611 | rocc70 ==  630
+
+replace rocc60 = 675 if rocc70 == 631
+
+replace rocc60 = 680 if rocc70 == 636
+
+replace rocc60 = 685 if rocc70 == 614 | rocc70 ==  640
+
+replace rocc60 = 690 if rocc70 == 710
+
+replace rocc60 = 691 if rocc70 == 704
+
+replace rocc60 = 692 if rocc70 == 642
+
+replace rocc60 = 693 if rocc70 == 643 | rocc70 == 634
+
+replace rocc60 = 694 if rocc70 == 443 | rocc70 ==  644
+
+replace rocc60 = 695 if rocc70 == 645
+
+replace rocc60 = 701 if rocc70 == 525
+
+replace rocc60 = 703 if rocc70 == 661
+
+replace rocc60 = 704 if rocc70 == 662
+
+replace rocc60 = 705 if rocc70 == 663
+
+replace rocc60 = 710 if rocc70 == 672
+
+replace rocc60 = 712 if rocc70 == 666
+
+replace rocc60 = 713 if rocc70 == 713
+
+replace rocc60 = 714 if rocc70 == 714
+
+replace rocc60 = 715 if rocc70 == 715
+
+replace rocc60 = 720 if rocc70 == 673
+
+replace rocc60 = 721 if rocc70 == 680
+
+replace rocc60 = 775 if rocc70 == 440 | rocc70 ==  604 | rocc70 ==  612 | rocc70 ==  615 | rocc70 ==  633 | rocc70 ==  635 | rocc70 ==  641 | rocc70 ==  650 | rocc70 ==  652 | rocc70 ==  653 | rocc70 ==  656 | rocc70 ==  660 | rocc70 ==  664 | rocc70 ==  665 | rocc70 ==  670 | rocc70 ==  674 | rocc70 ==  681 | rocc70 ==  690 | rocc70 ==  692 | rocc70 ==  694 | rocc70 ==  695 | rocc70 ==  706 | rocc70 ==  740
+
+replace rocc60 = 801 if rocc70 == 980
+
+replace rocc60 = 802 if rocc70 == 982
+
+replace rocc60 = 803 if rocc70 == 983
+
+replace rocc60 = 804 if rocc70 == 981 | rocc70 ==  984
+
+replace rocc60 = 810 if rocc70 == 925
+
+replace rocc60 = 812 if rocc70 == 933 | rocc70 ==  942 | rocc70 ==  952 | rocc70 == 922
+
+replace rocc60 = 813 if rocc70 == 932
+
+replace rocc60 = 814 if rocc70 == 935
+
+replace rocc60 = 815 if rocc70 == 910
+
+replace rocc60 = 820 if rocc70 == 941
+
+replace rocc60 = 821 if rocc70 == 940
+
+replace rocc60 = 823 if rocc70 == 901
+
+replace rocc60 = 824 if rocc70 == 902
+
+replace rocc60 = 825 if rocc70 == 912
+
+replace rocc60 = 830 if rocc70 == 914
+
+replace rocc60 = 831 if rocc70 == 943
+
+replace rocc60 = 832 if rocc70 == 931 | rocc70 ==  950
+
+replace rocc60 = 834 if rocc70 == 903
+
+replace rocc60 = 835 if rocc70 ==  913 | rocc70 ==  916
+
+replace rocc60 = 840 if rocc70 == 924
+
+replace rocc60 = 841 if rocc70 == 934
+
+replace rocc60 = 842 if rocc70 == 926
+
+replace rocc60 = 843 if rocc70 == 944
+
+replace rocc60 = 850 if rocc70 == 961
+
+replace rocc60 = 851 if rocc70 == 962
+
+replace rocc60 = 852 if rocc70 == 963
+
+replace rocc60 = 853 if rocc70 == 964
+
+replace rocc60 = 854 if rocc70 == 965
+
+replace rocc60 = 860 if rocc70 == 960
+
+replace rocc60 = 874 if rocc70 == 953
+
+replace rocc60 = 875 if rocc70 == 915
+
+replace rocc60 = 890 if rocc70 == 954 | rocc70 == 911
+
+replace rocc60 = 901 if rocc70 == 821
+
+replace rocc60 = 902 if rocc70 == 822
+
+replace rocc60 = 903 if rocc70 == 823
+
+replace rocc60 = 905 if rocc70 == 824
+
+replace rocc60 = 960 if rocc70 == 750
+
+replace rocc60 = 962 if rocc70 == 752
+
+replace rocc60 = 963 if rocc70 == 764
+
+replace rocc60 = 964 if rocc70 == 755
+
+replace rocc60 = 965 if rocc70 == 760
+
+replace rocc60 = 970 if rocc70 == 761
+
+replace rocc60 = 971 if rocc70 == 763
+
+replace rocc60 = 973 if rocc70 == 770
+
+replace rocc60 = 985 if rocc70 == 751 | rocc70 ==  753 | rocc70 ==  754 | rocc70 ==  762 | rocc70 ==  780 | rocc70 ==  785
+
+replace rocc60 = . if rocc70 == 0 | rocc70 == 196 | rocc70 == 246 | rocc70 == 296 | rocc70 == 396 | rocc70 == 586 | rocc70 == 590 | rocc70 == 696 | rocc70 == 726 | rocc70 == 796 | rocc70 == 806 | rocc70 == 846 | rocc70 == 976 | rocc70 == 986 | rocc70 ==  991 | rocc70 == 995 | rocc70 == 999
+
+
+
+gen r1occ60 = 0 if r1occ70 == 1
+
+replace r1occ60 = 10 if r1occ70 == 175
+
+replace r1occ60 = 12 if r1occ70 == 163
+
+replace r1occ60 = 13 if r1occ70 == 2
+
+replace r1occ60 = 14 if r1occ70 == 190
+
+replace r1occ60 = 15 if r1occ70 == 180
+
+replace r1occ60 = 20 if r1occ70 == 181
+
+replace r1occ60 = 21 if r1occ70 == 45
+
+replace r1occ60 = 22 if r1occ70 == 61
+
+replace r1occ60 = 23 if r1occ70 == 86
+
+replace r1occ60 = 30 if r1occ70 == 235
+
+replace r1occ60 = 31 if r1occ70 == 102
+
+replace r1occ60 = 32 if r1occ70 == 104
+
+replace r1occ60 = 34 if r1occ70 == 105
+
+replace r1occ60 = 35 if r1occ70 == 116
+
+replace r1occ60 = 40 if r1occ70 == 111
+
+replace r1occ60 = 41 if r1occ70 == 103
+
+replace r1occ60 = 42 if r1occ70 == 112
+
+replace r1occ60 = 43 if r1occ70 == 113
+
+replace r1occ60 = 45 if r1occ70 == 110
+
+replace r1occ60 = 50 if r1occ70 == 114
+
+replace r1occ60 = 52 if r1occ70 == 134
+
+replace r1occ60 = 53 if r1occ70 == 120 | r1occ70 ==  121 | r1occ70 == 122 | r1occ70 ==  125 | r1occ70 ==  126 
+
+replace r1occ60 = 54 if r1occ70 == 115 | r1occ70 ==  130 | r1occ70 ==  131 | r1occ70 ==  132 | r1occ70 ==  133
+
+replace r1occ60 = 60 if r1occ70 == 135 | r1occ70 ==  140
+
+replace r1occ60 = 70 if r1occ70 == 182
+
+replace r1occ60 = 71 if r1occ70 == 62
+
+replace r1occ60 = 72 if r1occ70 == 183
+
+replace r1occ60 = 73 if r1occ70 == 74
+
+replace r1occ60 = 74 if r1occ70 == 152
+
+replace r1occ60 = 75 if r1occ70 == 184
+
+replace r1occ60 = 80 if r1occ70 == 6
+
+replace r1occ60 = 81 if r1occ70 == 10
+
+replace r1occ60 = 82 if r1occ70 == 11
+
+replace r1occ60 = 83 if r1occ70 == 12
+
+replace r1occ60 = 84 if r1occ70 == 13
+
+replace r1occ60 = 85 if r1occ70 == 14
+
+replace r1occ60 = 90 if r1occ70 == 15
+
+replace r1occ60 = 91 if r1occ70 == 20 | r1occ70 ==  21
+
+replace r1occ60 = 92 if r1occ70 == 22
+
+replace r1occ60 = 93 if r1occ70 == 23
+
+replace r1occ60 = 101 if r1occ70 == 194
+
+replace r1occ60 = 102 if r1occ70 == 24 | r1occ70 ==  26
+
+replace r1occ60 = 103 if r1occ70 == 25
+
+replace r1occ60 = 104 if r1occ70 == 165 | r1occ70 ==  211
+
+replace r1occ60 = 105 if r1occ70 == 30 | r1occ70 ==  31
+
+replace r1occ60 = 111 if r1occ70 == 32 | r1occ70 ==  82
+
+replace r1occ60 = 120 if r1occ70 == 123 | r1occ70 ==  185
+
+replace r1occ60 = 130 if r1occ70 == 42
+
+replace r1occ60 = 131 if r1occ70 == 44
+
+replace r1occ60 = 134 if r1occ70 == 51
+
+replace r1occ60 = 135 if r1occ70 == 35
+
+replace r1occ60 = 140 if r1occ70 == 53
+
+replace r1occ60 = 145 if r1occ70 == 54 | r1occ70 == 52
+
+replace r1occ60 = 150 if r1occ70 == 75
+
+replace r1occ60 = 151 if r1occ70 == 923
+
+replace r1occ60 = 152 if r1occ70 == 63
+
+replace r1occ60 = 154 if r1occ70 == 56
+
+replace r1occ60 = 160 if r1occ70 == 64
+
+replace r1occ60 = 161 if r1occ70 == 191
+
+replace r1occ60 = 162 if r1occ70 == 65
+
+replace r1occ60 = 163 if r1occ70 == 192
+
+replace r1occ60 = 164 if r1occ70 == 164 | r1occ70 ==  171
+
+replace r1occ60 = 165 if r1occ70 == 101
+
+replace r1occ60 = 170 if r1occ70 == 90
+
+replace r1occ60 = 171 if r1occ70 == 100
+
+replace r1occ60 = 172 if r1occ70 == 91
+
+replace r1occ60 = 173 if r1occ70 == 93
+
+replace r1occ60 = 174 if r1occ70 == 34 | r1occ70 ==  36
+
+replace r1occ60 = 175 if r1occ70 == 33 | r1occ70 ==  92 | r1occ70 ==  94 | r1occ70 ==  96
+
+replace r1occ60 = 180 if r1occ70 == 124
+
+replace r1occ60 = 181 if r1occ70 == 161
+
+replace r1occ60 = 182 if r1occ70 == 142 | r1occ70 == 143
+
+replace r1occ60 = 183 if r1occ70 == 144 | r1occ70 == 145 | r1occ70 == 240
+
+replace r1occ60 = 184 if r1occ70 == 141
+
+replace r1occ60 = 185 if r1occ70 == 80 | r1occ70 ==  81 | r1occ70 ==  83 | r1occ70 ==  84 | r1occ70 ==  85 | r1occ70 ==  426
+
+replace r1occ60 = 190 if r1occ70 == 153
+
+replace r1occ60 = 191 if r1occ70 == 43 | r1occ70 ==  151 | r1occ70 ==  155 | r1occ70 ==  156 | r1occ70 ==  162 | r1occ70 ==  172
+
+replace r1occ60 = 192 if r1occ70 == 173 | r1occ70 == 150
+
+replace r1occ60 = 193 if r1occ70 == 71 | r1occ70 ==  76
+
+replace r1occ60 = 194 if r1occ70 == 72
+
+replace r1occ60 = 195 if r1occ70 == 3 | r1occ70 ==  5 | r1occ70 ==  55 | r1occ70 ==  73 | r1occ70 ==  95 | r1occ70 ==  154 | r1occ70 ==  174 | r1occ70 ==  193 | r1occ70 ==  195 | r1occ70 ==  382 | r1occ70 == 4
+
+replace r1occ60 = 200 if r1occ70 == 801
+
+replace r1occ60 = 222 if r1occ70 == 802
+
+replace r1occ60 = 250 if r1occ70 == 205 | r1occ70 ==  231 | r1occ70 ==  233
+
+replace r1occ60 = 251 if r1occ70 == 203
+
+replace r1occ60 = 252 if r1occ70 == 226
+
+replace r1occ60 = 253 if r1occ70 == 210
+
+replace r1occ60 = 260 if r1occ70 == 213 | r1occ70 ==  215
+
+replace r1occ60 = 262 if r1occ70 == 216
+
+replace r1occ60 = 265 if r1occ70 == 221
+
+replace r1occ60 = 270 if r1occ70 ==  222
+
+replace r1occ60 = 275 if r1occ70 == 223
+
+replace r1occ60 = 280 if r1occ70 == 224
+
+replace r1occ60 = 285 if r1occ70 == 225
+
+replace r1occ60 = 290 if r1occ70 == 202 | r1occ70 ==  220 | r1occ70 ==  230 | r1occ70 ==  245 | r1occ70 == 212
+
+replace r1occ60 = 301 if r1occ70 == 363 | r1occ70 == 321 | r1occ70 == 201
+
+replace r1occ60 = 302 if r1occ70 == 330
+
+replace r1occ60 = 303 if r1occ70 == 921
+
+replace r1occ60 = 305 if r1occ70 == 301
+
+replace r1occ60 = 310 if r1occ70 == 305
+
+replace r1occ60 = 312 if r1occ70 == 310
+
+replace r1occ60 = 313 if r1occ70 == 313
+
+replace r1occ60 = 314 if r1occ70 == 315
+
+replace r1occ60 = 320 if r1occ70 == 325
+
+replace r1occ60 = 321 if r1occ70 == 326
+
+replace r1occ60 = 323 if r1occ70 == 331
+
+replace r1occ60 = 324 if r1occ70 == 333
+
+replace r1occ60 = 325 if r1occ70 == 341 | r1occ70 ==  342 | r1occ70 ==  343 | r1occ70 ==  344 | r1occ70 ==  345 | r1occ70 ==  350 | r1occ70 ==  355
+
+replace r1occ60 = 333 if r1occ70 == 360
+
+replace r1occ60 = 340 if r1occ70 == 361
+
+replace r1occ60 = 341 if r1occ70 == 364
+
+replace r1occ60 = 342 if r1occ70 == 370 | r1occ70 ==  371 | r1occ70 ==  372
+
+replace r1occ60 = 343 if r1occ70 == 374
+
+replace r1occ60 = 345 if r1occ70 == 376
+
+replace r1occ60 = 350 if r1occ70 == 381
+
+replace r1occ60 = 351 if r1occ70 == 383
+
+replace r1occ60 = 352 if r1occ70 == 384
+
+replace r1occ60 = 353 if r1occ70 == 385
+
+replace r1occ60 = 354 if r1occ70 == 390
+
+replace r1occ60 = 360 if r1occ70 == 391
+
+replace r1occ60 = 370 if r1occ70 == 303 | r1occ70 ==  311 | r1occ70 ==  312 | r1occ70 ==  314 | r1occ70 ==  320 | r1occ70 ==  323 | r1occ70 ==  332 | r1occ70 ==  334 | r1occ70 ==  362 | r1occ70 ==  375 | r1occ70 ==  392 | r1occ70 ==  394 | r1occ70 ==  395
+
+replace r1occ60 = 380 if r1occ70 == 260
+
+replace r1occ60 = 381 if r1occ70 == 261
+
+replace r1occ60 = 382 if r1occ70 == 262
+
+replace r1occ60 = 383 if r1occ70 == 264
+
+replace r1occ60 = 385 if r1occ70 == 265
+
+replace r1occ60 = 390 if r1occ70 == 266
+
+replace r1occ60 = 393 if r1occ70 == 270
+
+replace r1occ60 = 394 if r1occ70 == 280 | r1occ70 == 281 | r1occ70 ==  282 | r1occ70 ==  283 | r1occ70 ==  284 | r1occ70 ==  285
+
+replace r1occ60 = 395 if r1occ70 == 271
+
+replace r1occ60 = 401 if r1occ70 == 402
+
+replace r1occ60 = 402 if r1occ70 ==  403
+
+replace r1occ60 = 403 if r1occ70 == 404
+
+replace r1occ60 = 404 if r1occ70 == 405
+
+replace r1occ60 = 405 if r1occ70 == 410 | r1occ70 ==  560
+
+replace r1occ60 = 410 if r1occ70 == 413
+
+replace r1occ60 = 411 if r1occ70 == 415
+
+replace r1occ60 = 413 if r1occ70 == 421
+
+replace r1occ60 = 414 if r1occ70 == 422
+
+replace r1occ60 = 415 if r1occ70 == 424
+
+replace r1occ60 = 420 if r1occ70 == 425
+
+replace r1occ60 = 421 if r1occ70 == 430
+
+replace r1occ60 = 423 if r1occ70 == 434
+
+replace r1occ60 = 424 if r1occ70 == 435
+
+replace r1occ60 = 425 if r1occ70 == 412 | r1occ70 ==  436
+
+replace r1occ60 = 430 if r1occ70 == 441
+
+replace r1occ60 = 431 if r1occ70 == 442
+
+replace r1occ60 = 432 if r1occ70 == 444
+
+replace r1occ60 = 434 if r1occ70 == 445
+
+replace r1occ60 = 435 if r1occ70 == 446
+
+replace r1occ60 = 444 if r1occ70 == 450
+
+replace r1occ60 = 450 if r1occ70 == 452
+
+replace r1occ60 = 451 if r1occ70 == 453
+
+replace r1occ60 = 452 if r1occ70 == 454
+
+replace r1occ60 = 453 if r1occ70 == 433 | r1occ70 ==  552 | r1occ70 ==  554
+
+replace r1occ60 = 454 if r1occ70 == 455
+
+replace r1occ60 = 460 if r1occ70 == 456
+
+replace r1occ60 = 461 if r1occ70 == 483
+
+replace r1occ60 = 465 if r1occ70 == 461
+
+replace r1occ60 = 470 if r1occ70 == 470
+
+replace r1occ60 = 471 if r1occ70 == 170 | r1occ70 ==  471
+
+replace r1occ60 = 472 if r1occ70 == 472 | r1occ70 ==  473
+
+replace r1occ60 = 473 if r1occ70 ==  484
+
+replace r1occ60 = 474 if r1occ70 == 485
+
+replace r1occ60 = 475 if r1occ70 == 486
+
+replace r1occ60 = 480 if r1occ70 == 480 | r1occ70 ==  481 | r1occ70 ==  482 | r1occ70 ==  492 | r1occ70 ==  495 | r1occ70 == 475
+
+replace r1occ60 = 490 if r1occ70 == 501
+
+replace r1occ60 = 491 if r1occ70 == 502
+
+replace r1occ60 = 492 if r1occ70 == 503
+
+replace r1occ60 = 493 if r1occ70 == 505
+
+replace r1occ60 = 494 if r1occ70 == 506
+
+replace r1occ60 = 495 if r1occ70 == 510 | r1occ70 ==  543
+
+replace r1occ60 = 501 if r1occ70 == 512
+
+replace r1occ60 = 502 if r1occ70 == 514
+
+replace r1occ60 = 503 if r1occ70 == 515
+
+replace r1occ60 = 504 if r1occ70 == 516
+
+replace r1occ60 = 505 if r1occ70 == 520
+
+replace r1occ60 = 510 if r1occ70 == 522
+
+replace r1occ60 = 512 if r1occ70 == 530
+
+replace r1occ60 = 513 if r1occ70 == 533
+
+replace r1occ60 = 514 if r1occ70 == 534
+
+replace r1occ60 = 515 if r1occ70 ==  542
+
+replace r1occ60 = 520 if r1occ70 == 545
+
+replace r1occ60 = 521 if r1occ70 == 546
+
+replace r1occ60 = 523 if r1occ70 == 540 | r1occ70 ==  550
+
+replace r1occ60 = 524 if r1occ70 == 551
+
+replace r1occ60 = 525 if r1occ70 == 535
+
+replace r1occ60 = 530 if r1occ70 == 561
+
+replace r1occ60 = 535 if r1occ70 == 563 | r1occ70 == 401
+
+replace r1occ60 = 545 if r1occ70 == 575 | r1occ70 == 420
+
+replace r1occ60 = 555 if r1occ70 == 580
+
+replace r1occ60 = 601 if r1occ70 == 474
+
+replace r1occ60 = 602 if r1occ70 == 411
+
+replace r1occ60 = 603 if r1occ70 == 416
+
+replace r1occ60 = 604 if r1occ70 == 431
+
+replace r1occ60 = 605 if r1occ70 == 462 | r1occ70 ==  562
+
+replace r1occ60 = 610 if r1occ70 == 491
+
+replace r1occ60 = 612 if r1occ70 == 523
+
+replace r1occ60 = 613 if r1occ70 == 511 | r1occ70 ==  521
+
+replace r1occ60 = 614 if r1occ70 == 504 | r1occ70 ==  536
+
+replace r1occ60 = 615 if r1occ70 == 423 | r1occ70 ==  531
+
+replace r1occ60 = 620 if r1occ70 == 571 | r1occ70 ==  945
+
+replace r1occ60 = 621 if r1occ70 == 572
+
+replace r1occ60 = 630 if r1occ70 == 601
+
+replace r1occ60 = 631 if r1occ70 == 602
+
+replace r1occ60 = 632 if r1occ70 == 623 | r1occ70 ==  711
+
+replace r1occ60 = 634 if r1occ70 == 603
+
+replace r1occ60 = 635 if r1occ70 == 701
+
+replace r1occ60 = 640 if r1occ70 == 712
+
+replace r1occ60 = 641 if r1occ70 == 703
+
+replace r1occ60 = 642 if r1occ70 == 605
+
+replace r1occ60 = 643 if r1occ70 == 610
+
+replace r1occ60 = 650 if r1occ70 == 705
+
+replace r1occ60 = 651 if r1occ70 == 613
+
+replace r1occ60 = 652 if r1occ70 == 620
+
+replace r1occ60 = 653 if r1occ70 == 621 | r1occ70 ==  651
+
+replace r1occ60 = 654 if r1occ70 == 625
+
+replace r1occ60 = 670 if r1occ70 == 622
+
+replace r1occ60 = 671 if r1occ70 == 624
+
+replace r1occ60 = 672 if r1occ70 == 626
+
+replace r1occ60 = 673 if r1occ70 == 671
+
+replace r1occ60 = 674 if r1occ70 == 611 | r1occ70 ==  630
+
+replace r1occ60 = 675 if r1occ70 == 631
+
+replace r1occ60 = 680 if r1occ70 == 636
+
+replace r1occ60 = 685 if r1occ70 == 614 | r1occ70 ==  640
+
+replace r1occ60 = 690 if r1occ70 == 710
+
+replace r1occ60 = 691 if r1occ70 == 704
+
+replace r1occ60 = 692 if r1occ70 == 642
+
+replace r1occ60 = 693 if r1occ70 == 643 | r1occ70 == 634
+
+replace r1occ60 = 694 if r1occ70 == 443 | r1occ70 ==  644
+
+replace r1occ60 = 695 if r1occ70 == 645
+
+replace r1occ60 = 701 if r1occ70 == 525
+
+replace r1occ60 = 703 if r1occ70 == 661
+
+replace r1occ60 = 704 if r1occ70 == 662
+
+replace r1occ60 = 705 if r1occ70 == 663
+
+replace r1occ60 = 710 if r1occ70 == 672
+
+replace r1occ60 = 712 if r1occ70 == 666
+
+replace r1occ60 = 713 if r1occ70 == 713
+
+replace r1occ60 = 714 if r1occ70 == 714
+
+replace r1occ60 = 715 if r1occ70 == 715
+
+replace r1occ60 = 720 if r1occ70 == 673
+
+replace r1occ60 = 721 if r1occ70 == 680
+
+replace r1occ60 = 775 if r1occ70 == 440 | r1occ70 ==  604 | r1occ70 ==  612 | r1occ70 ==  615 | r1occ70 ==  633 | r1occ70 ==  635 | r1occ70 ==  641 | r1occ70 ==  650 | r1occ70 ==  652 | r1occ70 ==  653 | r1occ70 ==  656 | r1occ70 ==  660 | r1occ70 ==  664 | r1occ70 ==  665 | r1occ70 ==  670 | r1occ70 ==  674 | r1occ70 ==  681 | r1occ70 ==  690 | r1occ70 ==  692 | r1occ70 ==  694 | r1occ70 ==  695 | r1occ70 ==  706 | r1occ70 ==  740
+
+replace r1occ60 = 801 if r1occ70 == 980
+
+replace r1occ60 = 802 if r1occ70 == 982
+
+replace r1occ60 = 803 if r1occ70 == 983
+
+replace r1occ60 = 804 if r1occ70 == 981 | r1occ70 ==  984
+
+replace r1occ60 = 810 if r1occ70 == 925
+
+replace r1occ60 = 812 if r1occ70 == 933 | r1occ70 ==  942 | r1occ70 ==  952 | r1occ70 == 922
+
+replace r1occ60 = 813 if r1occ70 == 932
+
+replace r1occ60 = 814 if r1occ70 == 935
+
+replace r1occ60 = 815 if r1occ70 == 910
+
+replace r1occ60 = 820 if r1occ70 == 941
+
+replace r1occ60 = 821 if r1occ70 == 940
+
+replace r1occ60 = 823 if r1occ70 == 901
+
+replace r1occ60 = 824 if r1occ70 == 902
+
+replace r1occ60 = 825 if r1occ70 == 912
+
+replace r1occ60 = 830 if r1occ70 == 914
+
+replace r1occ60 = 831 if r1occ70 == 943
+
+replace r1occ60 = 832 if r1occ70 == 931 | r1occ70 ==  950
+
+replace r1occ60 = 834 if r1occ70 == 903
+
+replace r1occ60 = 835 if r1occ70 ==  913 | r1occ70 ==  916
+
+replace r1occ60 = 840 if r1occ70 == 924
+
+replace r1occ60 = 841 if r1occ70 == 934
+
+replace r1occ60 = 842 if r1occ70 == 926
+
+replace r1occ60 = 843 if r1occ70 == 944
+
+replace r1occ60 = 850 if r1occ70 == 961
+
+replace r1occ60 = 851 if r1occ70 == 962
+
+replace r1occ60 = 852 if r1occ70 == 963
+
+replace r1occ60 = 853 if r1occ70 == 964
+
+replace r1occ60 = 854 if r1occ70 == 965
+
+replace r1occ60 = 860 if r1occ70 == 960
+
+replace r1occ60 = 874 if r1occ70 == 953
+
+replace r1occ60 = 875 if r1occ70 == 915
+
+replace r1occ60 = 890 if r1occ70 == 954 | r1occ70 == 911
+
+replace r1occ60 = 901 if r1occ70 == 821
+
+replace r1occ60 = 902 if r1occ70 == 822
+
+replace r1occ60 = 903 if r1occ70 == 823
+
+replace r1occ60 = 905 if r1occ70 == 824
+
+replace r1occ60 = 960 if r1occ70 == 750
+
+replace r1occ60 = 962 if r1occ70 == 752
+
+replace r1occ60 = 963 if r1occ70 == 764
+
+replace r1occ60 = 964 if r1occ70 == 755
+
+replace r1occ60 = 965 if r1occ70 == 760
+
+replace r1occ60 = 970 if r1occ70 == 761
+
+replace r1occ60 = 971 if r1occ70 == 763
+
+replace r1occ60 = 973 if r1occ70 == 770
+
+replace r1occ60 = 985 if r1occ70 == 751 | r1occ70 ==  753 | r1occ70 ==  754 | r1occ70 ==  762 | r1occ70 ==  780 | r1occ70 ==  785
+
+replace r1occ60 = . if r1occ70 == 0 | r1occ70 == 196 | r1occ70 == 246 | r1occ70 == 296 | r1occ70 == 396 | r1occ70 == 586 | r1occ70 == 590 | r1occ70 == 696 | r1occ70 == 726 | r1occ70 == 796 | r1occ70 == 806 | r1occ70 == 846 | r1occ70 == 976 | r1occ70 == 986 | r1occ70 ==  991 | r1occ70 == 995 | r1occ70 == 999
